@@ -1,0 +1,54 @@
+.mineTile {
+    background: #CC00CC;
+    height: 2rem;
+    width: 2rem;
+    font-weight: 600;
+}
+
+.clearTile {
+    background: #34517F;
+    height: 2rem;
+    width: 2rem;
+    font-weight: 600;
+}
+
+.hiddenTile {
+    background: #C9C5B5;
+    height: 2rem;
+    width: 2rem;
+    font-weight: 600;
+    color: black;
+}
+
+.hiddenTile:hover {
+    background: #B8B39D;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.board {
+    background: #1A6B1A;
+    padding: 1rem;
+    width: fit-content;
+    border-radius: 1rem;
+}
+
+.controlButton {
+    width: 7rem;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 1rem;
+    padding: 0.5rem;
+    margin: 1rem 0.25rem;
+    background-color: #145214;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: inset -2px -2px 4px  #1A6B1A;
+}
+
+.controlButton:hover {
+    background-color: #1A6B1A;
+}
