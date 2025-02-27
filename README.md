@@ -1,16 +1,16 @@
-#BunnySweeper
+# BunnySweeper
 
 I got an itch to play Minesweeper and figured instead of trying to find an inoffensive app it would be most straightforward to just hack my own.
 
 So behold, nobody had to install Windows 95!  And the flavor text/framing is about a bunch of cute sleeping bunnies because that's much better for those of us with excessively-active imaginations.
 
-##Technical
+## Technical
 
 App made in React with Vite.  Fire up your own version with `npm run dev` if you like.
 
 This is my first Vite app, now that `create-react-app` is not really being supported anymore.
 
-##Philosophical
+## Philosophical
 
 As a kid I remember the ways an office full of computers just seemed like toys.  I could amuse myself exploring and watching the different screensavers, and with that exhausted there were always two actual games: Solitaire and Minesweeper.
 
